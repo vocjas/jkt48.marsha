@@ -70,7 +70,7 @@ module.exports = {
 
       const button3 = new ButtonBuilder()
         .setLabel('Code')
-        .setURL('https://github.com/RTX-GAMINGG/RTX-MUSIC-BOT-v3.6')
+        .setURL('https://discord.gg/abyrQwkWW5')
         .setStyle(ButtonStyle.Link);
 
       const row = new ActionRowBuilder()

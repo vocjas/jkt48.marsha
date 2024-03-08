@@ -1,10 +1,10 @@
 module.exports = {
-  TOKEN: "",
-  ownerID: ["1004206704994566164", ""],
+  TOKEN: "MTIxNTY0ODMxOTkwMTE0MzA1MA.GrfMFU.EI737GA0MZrKKiEg30PmC7kxjmncln_9xWsbj4",
+  ownerID: ["180711691384913920", ""],
   botInvite: "",
   supportServer: "",
   mongodbURL: "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
-  status: 'RTXX GG',
+  status: 'GUAVAAA',
   commandsDir: './commands',
   language: "en",
   embedColor: "00fbff",
@@ -13,7 +13,7 @@ module.exports = {
 
   sponsor: {
     status: true,
-    url: "https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A",
+    url: "https://youtube.com/@Fachriannr?si=oINLpcZfv-ufYZsj",
   },
 
   voteManager: {

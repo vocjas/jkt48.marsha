@@ -122,8 +122,8 @@ app.get('/', (req, res) => {
   res.sendFile(imagePath);
 });
 app.listen(port, () => {
-  console.log(`🔗 Listening to GUAVAAA: http://localhost:${port}`);
-  console.log(`✨ GUAVAAA SERVER`);
+  console.log(`🔗 Listening to AZIZI ASADEL: http://localhost:${port}`);
+  console.log(`✨ JKT48.ZEE`);
 });
 printWatermark();
 

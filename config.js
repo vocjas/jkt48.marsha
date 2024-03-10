@@ -4,7 +4,7 @@ module.exports = {
   botInvite: "",
   supportServer: "",
   mongodbURL: "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
-  status: 'AZIZI',
+  status: 'MARSHA',
   commandsDir: './commands',
   language: "en",
   embedColor: "00fbff",

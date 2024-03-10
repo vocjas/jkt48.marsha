@@ -122,8 +122,8 @@ app.get('/', (req, res) => {
   res.sendFile(imagePath);
 });
 app.listen(port, () => {
-  console.log(`🔗 Listening to AZIZI ASADEL: http://localhost:${port}`);
-  console.log(`✨ JKT48.ZEE`);
+  console.log(`🔗 Listening to MARSHA LENATHEA: http://localhost:${port}`);
+  console.log(`✨ JKT48.MARSHA`);
 });
 printWatermark();
 
